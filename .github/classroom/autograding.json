@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "T1",
+      "setup": "",
+      "run": "python main.py",
+      "input": "",
+      "output": "[\\w,\\W]*5[\\w,\\W]*",
+      "comparison": "regex",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
